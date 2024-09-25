@@ -1,0 +1,15 @@
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\obj\Debug\net8.0\ruben_sandwich_maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\obj\Debug\net8.0\ruben_sandwich_maker.AssemblyInfoInputs.cache
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\obj\Debug\net8.0\ruben_sandwich_maker.AssemblyInfo.cs
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\obj\Debug\net8.0\ruben_sandwich_maker.csproj.CoreCompileInputs.cache
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\obj\Debug\net8.0\ruben_sandwich_maker.sourcelink.json
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\bin\Debug\net8.0\ruben_sandwich_maker.exe
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\bin\Debug\net8.0\ruben_sandwich_maker.deps.json
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\bin\Debug\net8.0\ruben_sandwich_maker.runtimeconfig.json
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\bin\Debug\net8.0\ruben_sandwich_maker.dll
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\bin\Debug\net8.0\ruben_sandwich_maker.pdb
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\obj\Debug\net8.0\ruben_sandwich_maker.dll
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\obj\Debug\net8.0\refint\ruben_sandwich_maker.dll
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\obj\Debug\net8.0\ruben_sandwich_maker.pdb
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\obj\Debug\net8.0\ruben_sandwich_maker.genruntimeconfig.cache
+C:\CODE\Common-Rube-Machine\ruben_sandwich_maker\obj\Debug\net8.0\ref\ruben_sandwich_maker.dll
