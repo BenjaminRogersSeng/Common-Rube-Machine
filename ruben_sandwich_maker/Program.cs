@@ -7,9 +7,8 @@ class Program
         List<string> repoUrls = new List<string>
         {
             "https://github.com/BenjaminRogersSeng/Rube-Phase-Java",        //Phase 1
-            //"https://github.com/yourusername/VBProject",                     //Phase 2
+            //"https://github.com/yourusername/VBProject",                  //Phase 2
             "https://github.com/BenjaminRogersSeng/Rube-Phase-Blackmail",   //Phase 3
-            "https://github.com/matriex/cmatrix",
         };
 
         string cloneDirectory = @"C:\RubeGoldbergProjects";
@@ -33,6 +32,6 @@ class Program
             {
                 Console.WriteLine($"Error cloning {url}: {ex.Message}");
             }
-        }
+        }    
     }
 }
